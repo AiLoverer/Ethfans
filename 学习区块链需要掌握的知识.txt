@@ -1,0 +1,50 @@
+区块链平台产品 Hyperledger Ethereum corda 
+
+实际操作比特币
+
+火币网
+
+以太坊 
+
+
+负责区块链相关产品的开发  包括底层协议 共识算法 加密算法 上层应用
+
+开发实现加密协议 设计安全协议和架构
+
+了解BT协议和P2P网络
+
+了解BerkelyDB/LevelDB 非对称加密算法  分布式一致性算法
+
+
+共识算法：Pow PoS  DPoS  PBFT  Paxos  Raft 
+
+
+主流区块链开源项目的实现机制以及运行原理
+Ethereum（以太坊） Bitcoin（比特币）  Hyperledger（超级账本） fabric
+
+
+了解PKI安全机制
+
+
+主流NoSQL数据库的原理及使用
+
+了解HTTP/2协议 理解Spring Cload 框架
+
+
+了解Docker技术
+
+
+熟悉分布式软件设计及开发 精通微服务架构及容器技术
+
+
+熟悉Solidity开发，  熟悉Truffle  OpenZeppelin框架
+
+
+以太坊 玩客云  数字黄金 以太坊养猫等等区块链应用
+
+开源技术 springboot  springcloud RXJava flowable node.js
+
+
+Docker云部署
+
+
